@@ -1,6 +1,6 @@
 # Matplotlib Library 
-Introduction
-This repository contains a complete PostgreSQL learning module designed for Everyone, strictly based on:
+
+#### This repository contains a complete PostgreSQL learning module designed for Everyone, strictly based on:
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📘 Module 1 – Database Fundamentals
