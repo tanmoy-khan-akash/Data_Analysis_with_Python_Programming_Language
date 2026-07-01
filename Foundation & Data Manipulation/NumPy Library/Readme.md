@@ -1,124 +1,34 @@
-# NumPy Library 
+# Complete NumPy Library for Everybody
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📘 Module 1 – Database Fundamentals
+### What is NumPy Library? 
 
-#### **1.1 Introduction to SQL**
-- What is a database?
-- Types of databases  
-- SQL/ NoSQL Database structure
-- Database Servers Vs. Database
-- On-Premises Server vs Cloud Server
-
-#### **1.2 PostgreSQL Setup**
-- Install PostgreSQL  
-- Install pgAdmin  
-- Create the first database  
-- Create first table 
+  - Install NumPy
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📘 Module 2 – SQL Essentials
+### What is DataFrame?
 
-#### **2.1 Core Syntax**
-- PostgreSQL data types  
-- SQL syntax  
-- SQL statements (DDL, DML basics)  
-- Types of SQL commands  
+#### 📘 Module 1 – Create Dataframe
 
-#### **2.2 Basic Queries**
-- SELECT  
-- SELECT DISTINCT  
-- Aliases 
-------------------------------------------------------------------------------------------------------------------------------------------
+#### 📘 Module 2 – Basic Dataframe Understanding
 
-### 📘 Module 3 – Filtering & Sorting
+#### 📘 Module 3 – Save and Load data from CSV
 
-#### **3.1 Filtering**
-- WHERE  
-- AND / OR / NOT  
-- IN  
-- BETWEEN  
-- LIKE  
-- Wildcards  
-- NULL handling  
+#### 📘 Module 4 – Rows & Columns - Selection
 
-#### **3.2 Sorting**
-- ORDER BY  
-- LIMIT  
-- ORDER BY + LIMIT 
-------------------------------------------------------------------------------------------------------------------------------------------
+#### 📘 Module 5 – Filter DataFrame - Filtering by column values
 
-### 📘 Module 4 – Aggregation & Grouping
+#### 📘 Module 6 – Rows and Columns - Operation (Add, update, delete)
 
-#### **4.1 Aggregate Functions**
-- COUNT  
-- SUM  
-- AVG  
-- MIN  
-- MAX  
+#### 📘 Module 7 – working with date value
 
-#### **4.2 Grouping**
-- GROUP BY  
-- HAVING 
-------------------------------------------------------------------------------------------------------------------------------------------
+#### 📘 Module 8 – Handling Missing Values
 
-### 📘 Module 5 – Joins & Relationships
+#### 📘 Module 9 – Aggregation and Group By
 
-#### **5.1 Keys & Constraints**
-- Primary Key  
-- Foreign Key  
-- Composite Key  
-- Constraints  
-- Revisiting Foreign Keys  
-- Cascading Foreign Keys  
+#### 📘 Module 10 – Concatenate and Merge Dataframe (JOINS)
 
-#### **5.2 Join Operations**
-- INNER JOIN  
-- LEFT JOIN  
-- RIGHT JOIN  
-- FULL JOIN
-- CROSS JOIN
-- SELF JOIN  
-- JOINS in SQL  
-
-#### **5.3 Set Operations**
-- UNION  
-- UNION ALL 
-------------------------------------------------------------------------------------------------------------------------------------------
-
-### 📘 Module 6 – Data Modification Commands
-
-#### **6.1 Insert, Update, Delete**
-- INSERT  
-- UPDATE  
-- DELETE  
-
-#### **6.2 Table Alteration**
-- ALTER (Existing Table Name Change, Existing Table ADD COLUMN, Existing Table COLUMN DELETE) / Means that, TABLE MODIFY
-- ALTER COLUMN (COLUMN ADD, COLUMN RENAME, etc..)
-- ALTER TABLE (RENAME TABLE NAME)
-- DROP COLUMN
-  
-- TRUNCATE 
-------------------------------------------------------------------------------------------------------------------------------------------
-
-### 📘 Module 7 – Advanced SQL Topics  
-
-- SQL Select Top → (PostgreSQL uses LIMIT)  
-- SQL Wildcards  
-- SQL EXISTS  
-- SQL ANY, ALL  
-- SQL CASE Statement
-- SQL CASE Expression 
-- SQL Null Functions (COALESCE, NULLIF) 
-- SQL Subqueries 
-- SQL COMMON TABLE EXPRESSION (CTE) 
-- SQL WINDOW FUNCTION
-- SQL Views 
-- SQL Stored Procedures (PostgreSQL Functions)  
-- SQL Comments  
-- SQL Operators  
-- General Order of Commands 
+#### 📘 Module 11 – AI and ChatGPT
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 These resources are perfect for both beginners and advanced learners. 
