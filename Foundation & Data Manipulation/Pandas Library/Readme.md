@@ -1,4 +1,4 @@
-# Complete PostgreSQL for Everybody
+# Complete Pandas Library for Everybody
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### What is Pandas? 
